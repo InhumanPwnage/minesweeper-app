@@ -1,0 +1,6 @@
+C:\Users\julia\source\repos\MinesweeperApp\MinesweeperApp.Library\bin\Debug\MinesweeperApp.Library.dll
+C:\Users\julia\source\repos\MinesweeperApp\MinesweeperApp.Library\bin\Debug\MinesweeperApp.Library.pdb
+C:\Users\julia\source\repos\MinesweeperApp\MinesweeperApp.Library\obj\Debug\MinesweeperApp.Library.csprojAssemblyReference.cache
+C:\Users\julia\source\repos\MinesweeperApp\MinesweeperApp.Library\obj\Debug\MinesweeperApp.Library.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\MinesweeperApp\MinesweeperApp.Library\obj\Debug\MinesweeperApp.Library.dll
+C:\Users\julia\source\repos\MinesweeperApp\MinesweeperApp.Library\obj\Debug\MinesweeperApp.Library.pdb

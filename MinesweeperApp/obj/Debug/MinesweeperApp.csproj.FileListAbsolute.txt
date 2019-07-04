@@ -1,0 +1,10 @@
+C:\Users\julia\source\repos\MinesweeperApp\MinesweeperApp\bin\Debug\MinesweeperApp.exe.config
+C:\Users\julia\source\repos\MinesweeperApp\MinesweeperApp\bin\Debug\MinesweeperApp.exe
+C:\Users\julia\source\repos\MinesweeperApp\MinesweeperApp\bin\Debug\MinesweeperApp.pdb
+C:\Users\julia\source\repos\MinesweeperApp\MinesweeperApp\bin\Debug\MinesweeperApp.Library.dll
+C:\Users\julia\source\repos\MinesweeperApp\MinesweeperApp\bin\Debug\MinesweeperApp.Library.pdb
+C:\Users\julia\source\repos\MinesweeperApp\MinesweeperApp\obj\Debug\MinesweeperApp.csprojAssemblyReference.cache
+C:\Users\julia\source\repos\MinesweeperApp\MinesweeperApp\obj\Debug\MinesweeperApp.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\MinesweeperApp\MinesweeperApp\obj\Debug\MinesweeperApp.csproj.CopyComplete
+C:\Users\julia\source\repos\MinesweeperApp\MinesweeperApp\obj\Debug\MinesweeperApp.exe
+C:\Users\julia\source\repos\MinesweeperApp\MinesweeperApp\obj\Debug\MinesweeperApp.pdb
